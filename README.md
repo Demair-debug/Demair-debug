@@ -8,7 +8,7 @@ I am an aspiring IT professional with hands-on experience in Windows administrat
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/teaganpacheco/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/Demair-debug/osticket-prereqs/tree/main)
   - [osTicket: Post-Installation Configuration](https://github.com/teaganpacheco/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/teaganpacheco/ticket-lifecycle)
 - <b>Microsoft Azure</b>
