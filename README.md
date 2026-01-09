@@ -9,14 +9,13 @@ I am an aspiring IT professional with hands-on experience in Windows administrat
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Demair-debug/osticket-prereqs/tree/main)
-  - [osTicket: Post-Installation Configuration](https://github.com/teaganpacheco/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/teaganpacheco/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/Demair-debug/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Demair-debug/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/teaganpacheco/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/teaganpacheco/azure-network-protocols)
-- <b>Splunk Enterprise</b>
-  - [Splunk Enterprise Distributed Deployment in GCP](https://github.com/teaganpacheco/autoSplunkDeployment)
-
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Demair-debug/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Demair-debug/azure-network-protocols)
+  
+    
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
