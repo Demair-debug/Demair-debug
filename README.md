@@ -10,6 +10,9 @@ osTicket (Help Desk Ticketing System)
 Practical implementation of a help desk platform simulating real-world IT support, incident management, and ticket lifecycle 
 workflows, including role-based access and escalation.
 
+Key skills demonstrated:
+Help Desk Support, Ticketing Systems, User Support, Access Control, Documentation, Troubleshooting
+
   - [osTicket: Prerequisites and Installation](https://github.com/Demair-debug/osticket-prereqs/tree/main)
   - [osTicket: Post-Installation Configuration](https://github.com/Demair-debug/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Demair-debug/ticket-lifecycle)
