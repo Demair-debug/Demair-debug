@@ -10,7 +10,8 @@ osTicket (Help Desk Ticketing System)
 Practical implementation of a help desk platform simulating real-world IT support, incident management, and ticket lifecycle 
 workflows, including role-based access and escalation.
 
-Key skills demonstrated:
+
+ey skills demonstrated:
 
 Help Desk Support, Ticketing Systems, User Support, Access Control, Documentation, Troubleshooting
 
