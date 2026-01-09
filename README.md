@@ -6,7 +6,9 @@ I am an aspiring IT professional with hands-on experience in Windows administrat
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-osTicket (Help Desk Ticketing System
+osTicket (Help Desk Ticketing System)
+Practical implementation of a help desk platform simulating real-world IT support, incident management, and ticket lifecycle 
+workflows, including role-based access and escalation.
 
   - [osTicket: Prerequisites and Installation](https://github.com/Demair-debug/osticket-prereqs/tree/main)
   - [osTicket: Post-Installation Configuration](https://github.com/Demair-debug/post-install-config)
