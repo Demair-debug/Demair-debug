@@ -1,9 +1,9 @@
-Hi there 👋 I’m Demair — an IT Professional 
+<h1>Hi, I'm Demair, an <a href="www.linkedin.com/in/demairmaitland">IT Professional</a>☺</h1>
 
 
 I am an aspiring IT professional with hands-on experience in Windows administration, cloud infrastructure, networking fundamentals, and help desk operations. I build and document real-world lab environments using Microsoft Azure, Active Directory, and ticketing systems to develop practical troubleshooting and systems operations skills. My focus is on understanding how enterprise IT systems function end-to-end while applying security and operational best practices.
 
-<h1>Hi, I'm Demair, an <a href="www.linkedin.com/in/demairmaitland">IT Professional</a>☺</h1>
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
