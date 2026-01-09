@@ -11,7 +11,7 @@ Practical implementation of a help desk platform simulating real-world IT suppor
 workflows, including role-based access and escalation.
 
 
-ey skills demonstrated:
+key skills demonstrated:
 
 Help Desk Support, Ticketing Systems, User Support, Access Control, Documentation, Troubleshooting
 
